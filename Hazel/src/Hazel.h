@@ -4,6 +4,7 @@
 #include "Hazel/Application.h"
 #include <stdio.h>
 #include "Hazel/Log.h"
+#include "Hazel/Layer.h"
 
 //---------ENTRY POINT--------------------------------------
 #include "Hazel/EntryPoint.h"
